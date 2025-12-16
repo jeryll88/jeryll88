@@ -4,7 +4,9 @@
 
 
 ##👩‍💻About Me##
+
 -Second Year IT Students
+
 -Studying in University of Abra, Main Campus.
 
 ##📞How to reach me##
@@ -17,8 +19,6 @@
 -Php
 -Python
 
-🔗 [Facebook](https://www.facebook.com/jeryllanne.bides)  
-📧 [Email](mailto:jeryllanne8@gmail.com)
 
 
 
