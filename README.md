@@ -31,7 +31,7 @@ This space is where I share my learning journey and projects as an **IT student*
 ## 🖼️ Fun Section
 
 <p align="center">
-  <img src="aquflask/assets/images/products/mem.jpg" width="180" />
+  <img src="C:\xampp1\htdocs\aquaflask\assets\images\products\mem.png" width="180" />
 </p>
 
 
