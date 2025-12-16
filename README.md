@@ -31,8 +31,9 @@ This space is where I share my learning journey and projects as an **IT student*
 ## 🖼️ Fun Section
 
 <p align="center">
-  <img src="assets/images/meme.jpg" width="200" />
+  <img src="aquflask/assets/images/products/mem.jpg" width="180" />
 </p>
+
 
 ---
 
