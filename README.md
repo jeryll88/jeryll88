@@ -10,6 +10,7 @@ This space is where I share my learning journey and projects as an **IT student*
 - 🎓 Second Year **IT Student**
 - 🏫 University of Abra — Main Campus
 - 💡 Passionate about learning and building projects
+- 🐱 live, laugh, love cats
 
 ---
 
