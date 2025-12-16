@@ -1,7 +1,10 @@
 
+
 ## 👋 Hello Dear! 
 
-✨ Welcome to my 🐙 **GitHub profile**  
+✨ Welcome to my 🐙 **GitHub profile**
+
+ 
 This space is where I share my learning journey and projects as an **IT student**.
 
 ---
@@ -12,6 +15,9 @@ This space is where I share my learning journey and projects as an **IT student*
 - 🏫 University of Abra — Main Campus
 - 💡 Passionate about learning and building projects
 - 🐱 live, laugh, love cats
+
+
+
 
 
 ---
