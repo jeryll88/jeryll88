@@ -1,5 +1,5 @@
-![4181ab4bb3a6122a7d91cf7283bcdb9f (2)](https://github.com/user-attachments/assets/8cc42f54-b24e-40a4-8fe8-f81f8827ea91)
-## 👋 Hello Dear!
+
+## 👋 Hello Dear! 
 
 ✨ Welcome to my 🐙 **GitHub profile**  
 This space is where I share my learning journey and projects as an **IT student**.
@@ -12,6 +12,7 @@ This space is where I share my learning journey and projects as an **IT student*
 - 🏫 University of Abra — Main Campus
 - 💡 Passionate about learning and building projects
 - 🐱 live, laugh, love cats
+
 
 ---
 
