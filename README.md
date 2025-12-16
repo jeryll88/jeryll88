@@ -1,7 +1,6 @@
 ## Hello Dear! 
 
-<!--
-**✨Welcome to my 🐙Github profile. This space is where I share my learning and projects as an IT students!**
+✨Welcome to my 🐙Github profile. This space is where I share my learning and projects as an IT students!**
 
 
 ##👩‍💻About Me##
@@ -14,5 +13,7 @@
 -Java
 -Php
 -Python
+🔗 [Facebook](https://www.facebook.com/jeryllanne.bides)  
+📧 [Email](mailto:jeryllanne8@gmail.com)
 
 🌙✨###ISAIAH 60:22###
