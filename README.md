@@ -21,7 +21,7 @@
 -Php
 -Python
 
-<img src="C:\xampp1\htdocs\aquaflask\assets\images\products\meme.jpg" width="200" />
+<img src="xampp1\htdocs\aquaflask\assets\images\products\meme.jpg" width="200" />
 
 
 
