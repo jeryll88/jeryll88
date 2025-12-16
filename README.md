@@ -26,16 +26,6 @@ This space is where I share my learning journey and projects as an **IT student*
 - 🐘 PHP  
 - 🐍 Python  
 
----
-
-## 🖼️ Fun Section
-
-<p align="center">
-  <img src="xampp1\htdocs\aquaflask\assets\images\products\mem.png" width="180" />
-</p>
-
-
----
 
 🌙✨ **Isaiah 60:22**  
 *“When the time is right, I, the Lord, will make it happen.”*
