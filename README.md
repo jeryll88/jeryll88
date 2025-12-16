@@ -10,7 +10,6 @@
 ##📞How to reach me##
 -📧: <jeryllanne88@gmail.com>
 -📱: 09555878663
--🔗: 
 ##💻Programming Language##
 -Java
 -Php
